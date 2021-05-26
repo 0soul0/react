@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [
+            {
+                "id": 1,
+                "title": "google",
+                "imgUrl": "https://images.idgesg.net/images/article/2018/02/slide-14_chrome-logo-100748748-large.jpg"
+            }
+        ],
+        "articleList": [
+            {
+                "id": 1,
+                "title": "標題",
+                "desc": "描述",
+                "imgUrl": "https://inews.gtimg.com/newsapp_bt/0/11239128421/1000"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": 1,
+                "imgUrl": "https://images.chinatimes.com/newsphoto/2020-02-13/656/20200213004108.jpg"
+            }
+        ]
+    }
+}
